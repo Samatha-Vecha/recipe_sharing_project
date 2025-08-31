@@ -39,9 +39,5 @@ It serves as a beginner-friendly project to demonstrate **full-stack concepts**,
    ```bash
    npm start
 4. **Open in browser**
+   
    Navigate to: http://localhost:3000
-
-
-
-## 📂 Project Structure
-

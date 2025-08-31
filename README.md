@@ -1,6 +1,6 @@
 # 🍳 Recipe Sharing Platform
 
-A simple recipe sharing web application built with **React.js**.  
+A simple recipe sharing web application built with **React.js , Node.js , Firebase.**.  
 Users can sign up, log in, add new recipes, view all recipes, check recipe details, and manage their profile.
 
 ---
